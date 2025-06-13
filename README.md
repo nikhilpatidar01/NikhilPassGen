@@ -5,7 +5,8 @@
 
 ```bash
  apt update
----
+```
+```
  apt install python3 -y
 ```
 
@@ -15,6 +16,8 @@
 
 ```bash
 git clone https://github.com/nikhilpatidar01/NikhilPassGen.git
+```
+```
 cd NikhilPassGen
 ```
 
@@ -26,10 +29,3 @@ cd NikhilPassGen
 python3 nikhilpassgen.py
 ```
 
-> ❗ *Agar python3 command not found aata hai:*
->
-> ```bash
->  apt install python3 -y
-> ```
-
----
