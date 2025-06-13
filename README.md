@@ -1,6 +1,9 @@
 
 ## 🔧 Linux Installation & Usage (Kali, Ubuntu, etc.)
 
+![NikhilPassGen Banner](https://raw.githubusercontent.com/nikhilpatidar01/NikhilPassGen/Master/image.jpg)
+
+
 ### 🥇 1. Python Install Karna (Agar already nahi hai):
 
 ```bash
