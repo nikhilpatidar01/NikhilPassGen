@@ -1,6 +1,4 @@
-Perfect! Here's a **clean and professional Linux-only** version of the instructions — with **no use of `sudo`**, ideal for local or non-root environments like Termux, custom VMs, or sandboxed setups:
 
----
 
 # 🔐 Brute Force Attack Password List Generator – *NikhilPassGen*
 
